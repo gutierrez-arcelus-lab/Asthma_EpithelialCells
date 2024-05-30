@@ -1,3 +1,4 @@
+#CellphoneDB analysis
 In this folder, you will find the script to reproduce the CellphoneDB analysis. 
 1- Script 1_scRNAseq_differentialExpression.R show how we performed differential expression analyis from Basnet et al., 2023. 
 2- Script 2_cellphoneDB_epithelialRV_subset.ipynb show how we run CellPhoneDB. 
