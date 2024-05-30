@@ -5,7 +5,7 @@ medRxiv[Preprint]. 2024 Feb 6:2024.02.02.24302068. doi: 10.1101/2024.02.02.24302
 
 In this repository, you will find scripts to reproduce data in the article.
 We provide:
-1) Scripts to reproduce differential expression analysis in DEA folder.
+1) Scripts to reproduce differential expression analysis in DEA folder, we provide an example using Helling et al., 2020 dataset.
 2) Scripts to reproduce LDSC-SEG analysis in LDSC-SEG folder.
 3) Scripts to reproduce single-cell RNAseq and scDRS analysis, we provide an example using Basnet et al., 2023 dataset in scDRS folder.
 4) Scripts to reproduce CellPhoneDB analysis in cellphoneDB folder.
