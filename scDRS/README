@@ -1,0 +1,4 @@
+In this folder, you will find the script to reproduce the scDRS analysis. 
+1- Script 1_scRNAseqAnalysis_Basnet.R show how we pre-processed single-cellRNAseq analysis from Basnet et al., 2023. 
+2- Script 2_scdrs.sh show how we run scDRS. 
+3- Script 3_scDRS_plots.R show how we processed the results and plot them. 
