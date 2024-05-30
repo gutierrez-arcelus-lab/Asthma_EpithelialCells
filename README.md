@@ -3,7 +3,7 @@ This project contains scripts and data for manuscript: Rhinovirus infection of a
 
 medRxiv[Preprint]. 2024 Feb 6:2024.02.02.24302068. doi: 10.1101/2024.02.02.24302068.
 
-In this repository, you will scripts to reproduce data in the article.
+In this repository, you will find scripts to reproduce data in the article.
 We provide:
 1) Scripts to reproduce differential expression analysis in DEA folder.
 2) Scripts to reproduce LDSC-SEG analysis in LDSC-SEG folder.
