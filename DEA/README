@@ -1,2 +1,10 @@
 In this directory you can find:
-Script to perform a differential expression analysis based on a linear mixed model.
+1- Selection-LMM.R Script to perform a differential expression analysis based on a linear mixed model.
+2- DEA.sh Example on how to run Selection-LMM.R based on the Helling et, al dataset.
+  This includes:
+  a) Filtering genes expressed in at least 9 samples.
+  b) Selecting samples corresponding to healthy individuals.
+  c) Runing the model a to test for RV-specific genes considering "donor" as random effect and "sex" as a fixed effect.
+3- DEA-metamatrix which contains the metadata for Helling et al., and is a required input for the example.
+4- Healthy_index.txt which contains a list of the healthy individual samples. These match the counts matrix.
+5- Volcano-Tstat.R Script to create volcano plots based on the output of Selection-LMM.R. Top 10% genes by t-stat are highlighted in the color the user provides. (Accepts HEX)
